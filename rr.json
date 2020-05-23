@@ -1,0 +1,35 @@
+{
+    "additionalUserInfo":
+     {
+        "isNewUser": true, 
+        "profile": 
+        {
+            "aud": "488076642820-4uor3a4hs3el60629rdh177ttt2lkfqt.apps.googleusercontent.com",
+            "azp": "488076642820-3d0vf19ko3aqhd92hgdhjhhs1r6k65s2.apps.googleusercontent.com",
+            "email": "youssef.jirari@gmail.com", 
+            "email_verified": true, "exp": 1589420102,
+            "family_name": "jirari", 
+            "given_name": "youssef",
+            "iat": 1589416508, 
+            "iss": "https://accounts.google.com",
+            "locale": "fr",
+            "name": "youssef jirari", 
+            "picture": "https://lh5.googleusercontent.com/-WP8gz1H_5_M/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnwcqRz7cQdSAbXlyy68k6BXEWSLg/s96-c/photo.jpg",
+            "sub": "111889955626056838725"
+            },
+        "providerId": "google.com"
+        },
+     "user": {
+        "displayName": "youssef jirari",
+        "email": "youssef.jirari@gmail.com",
+        "emailVerified": true,
+        "isAnonymous": false,
+        "metadata": "",
+        "phoneNumber": null,
+        "photoURL": "https://lh5.googleusercontent.com/-WP8gz1H_5_M/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnwcqRz7cQdSAbXlyy68k6BXEWSLg/s96-c/photo.jpg",
+        "providerData":"",
+        "providerId": "firebase",
+        "uid": "rlcFKST2sFNyM2WgpR7IgC46xKo2"
+  } 
+
+}
