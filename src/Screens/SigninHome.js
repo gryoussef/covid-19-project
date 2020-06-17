@@ -6,10 +6,11 @@ import GoogleSignIn from './GoogleSignIn';
 const SigninHome =({ navigation })=>{
     
     return (
+      
         <View style={Styled}>
         <Image
         style={logo}
-            source={require('../assets/images/logo.png')}
+            source={require('../assets/logo1.png') }
           />
         <View style={{paddingTop:50}}>
         <GoogleSignIn navigation={navigation}></GoogleSignIn>
@@ -29,9 +30,12 @@ const SigninHome =({ navigation })=>{
     }
   
     const logo={
-      marginBottom:50,
-      width: 150,
-      height: 150,
+     marginBottom:50,
+      //width: 150,
+      //height: 150,
       
+      width:350,
+      height:350,
+      //flex:3
     }
    

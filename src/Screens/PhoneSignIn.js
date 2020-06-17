@@ -4,6 +4,8 @@ import auth from '@react-native-firebase/auth';
 
 export default function PhoneSignIn({ navigation }) {
   // If null, no SMS has been sent
+
+
   const [confirm, setConfirm] = useState(null);
 
   const [code, setCode] = useState('');
@@ -45,9 +47,11 @@ export default function PhoneSignIn({ navigation }) {
   }
 
   return (
+    
     <View style={{flex:1,justifyContent:'center', alignItems:'center'}}>
       <TextInput value={code} placeholder="enter verification code" onChangeText={text => setCode(text)} />
       <Button title="Confirm Code" onPress={() => confirmCode()} />
     </View>
+   
   );
 }
