@@ -1,10 +1,10 @@
-#Wed Jun 17 19:02:40 CEST 2020
-base.2=C\:\\Users\\dell\\Desktop\\covid-19-project\\android\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes3.dex
+#Fri Jun 19 19:03:31 WEST 2020
 path.2=classes3.dex
-base.1=C\:\\Users\\dell\\Desktop\\covid-19-project\\android\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes2.dex
 path.1=classes2.dex
-base.0=C\:\\Users\\dell\\Desktop\\covid-19-project\\android\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
 renamed.2=classes3.dex
 renamed.1=classes2.dex
 renamed.0=classes.dex
-path.0=classes.dex
+base.2=D\:\\myCourses\\react native\\p\\covid-19-project\\android\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes3.dex
+base.1=D\:\\myCourses\\react native\\p\\covid-19-project\\android\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes2.dex
+base.0=D\:\\myCourses\\react native\\p\\covid-19-project\\android\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
